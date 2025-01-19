@@ -59,16 +59,14 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-our-paper-wins-the-best-paper-award-at-the-international-conference-on-social-robotics-2024",
           title: 'Our paper wins the best paper award at the International Conference on Social...',
+          description: "",
+          section: "News",},{id: "news-our-paper-touched-by-chatgpt-using-an-llm-to-drive-affective-tactile-interaction-was-accepted-as-a-late-breaking-report-at-acm-ieee-hri-2025-in-paris",
+          title: 'Our paper “Touched by ChatGPT: Using an LLM to Drive Affective Tactile Interaction”,...',
           description: "",
           section: "News",},{id: "projects-tactile-interaction-influences-risk-taking-behaviour-and-attitude",
           title: 'Tactile interaction Influences risk-taking behaviour and attitude.',
