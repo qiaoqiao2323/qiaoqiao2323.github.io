@@ -59,8 +59,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-our-paper-tactile-interaction-with-social-robots-influences-attitudes-and-behaviour-was-accepted-by-the-international-journal-of-social-robotics",
+          title: 'Our paper “Tactile interaction with social robots influences attitudes and behaviour” was accepted...',
           description: "",
           section: "News",},{id: "news-our-paper-wins-the-best-paper-award-at-the-international-conference-on-social-robotics-2024",
           title: 'Our paper wins the best paper award at the International Conference on Social...',
