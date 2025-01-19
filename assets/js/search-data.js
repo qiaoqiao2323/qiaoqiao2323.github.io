@@ -65,7 +65,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-wins-the-best-paper-award-at-the-international-conference-on-social-robotics-2024",
           title: 'Our paper wins the best paper award at the International Conference on Social...',
           description: "",
-          section: "News",},{id: "news-our-paper-touched-by-chatgpt-using-an-llm-to-drive-affective-tactile-interaction-was-accepted-as-a-late-breaking-report-at-acm-ieee-hri-2025-in-paris",
+          section: "News",},{id: "news-our-paper-touched-by-chatgpt-using-an-llm-to-drive-affective-tactile-interaction-was-accepted-as-a-late-breaking-report-at-acm-ieee-hri-2025",
           title: 'Our paper “Touched by ChatGPT: Using an LLM to Drive Affective Tactile Interaction”,...',
           description: "",
           section: "News",},{id: "projects-tactile-interaction-influences-risk-taking-behaviour-and-attitude",
