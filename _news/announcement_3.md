@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper "Tactile interaction with social robots influences attitudes and behaviour" was accepted by the International Journal of Social Robotics.
