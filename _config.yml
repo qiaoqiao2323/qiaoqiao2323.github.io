@@ -239,8 +239,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Qiaoqiao]
+  first_name: [Ren]
 
   style: apa
   locale: en
