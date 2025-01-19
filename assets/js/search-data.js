@@ -127,7 +127,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/renqqyihao@gmail.com", "_blank");
+          window.open("https://www.linkedin.com/in/qiaoqiao-ren-36736a297", "_blank");
         },
       },{
         id: 'social-researchgate',
