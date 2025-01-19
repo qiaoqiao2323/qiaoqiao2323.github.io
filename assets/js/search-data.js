@@ -127,14 +127,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Qiaoqiao Ren", "_blank");
+          window.open("https://www.linkedin.com/in/renqqyihao@gmail.com", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-researchgate',
+        title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.researchgate.net/profile/Qiaoqiao-Ren-2/", "_blank");
         },
       },{
         id: 'social-scholar',
