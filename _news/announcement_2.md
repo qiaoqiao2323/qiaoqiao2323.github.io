@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper “Touched by ChatGPT: Using an LLM to Drive Affective Tactile Interaction”, was accepted as a late-breaking report at ACM/IEEE HRI 2025 in Paris. 
+Our paper “Touched by ChatGPT: Using an LLM to Drive Affective Tactile Interaction”, was accepted as a late-breaking report at ACM/IEEE HRI 2025. 
