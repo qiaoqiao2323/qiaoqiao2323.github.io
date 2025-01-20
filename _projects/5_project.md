@@ -2,7 +2,7 @@
 layout: page
 title: Touched by ChatGPT; Using an LLM to Drive Affective Tactile Interaction
 description: a project with a background image
-img: assets/img/5.jpg
+img: assets/img/5.png
 importance: 3
 category: fun
 ---
@@ -13,7 +13,6 @@ Touch is a fundamental aspect of emotion-rich communication, playing a vital rol
 If you want to know more about this research, please read <a href='https://arxiv.org/pdf/2501.07224'>our paper</a>, which was accepted by the IEEE/ACM HRI 2025.
 
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.png" title="example image" class="img-fluid rounded z-depth-1" %}
