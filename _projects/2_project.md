@@ -1,7 +1,7 @@
 ---
 layout: page
 title: No More Mumbles; Enhancing Robot Intelligibility Through Speech Adaptation
-description: a project with a background image and giscus comments
+description: Q Ren, Y Hou, D Botteldooren, T Belpaeme
 img: assets/img/3.png
 importance: 2
 category: work
