@@ -2,7 +2,7 @@
 layout: page
 title: Multimodal Superiority; Vibrotactile and Sound in Robot-Human Emotion communication
 description: Qiaoqiao Ren and Tony Belpame
-img:
+img: assets/img/9.png
 importance: 3
 category: in process
 ---
@@ -12,11 +12,3 @@ Emotional expression through touch and hearing is a nuanced form of communicatio
 
 This paper is still under submission, and we will update it as soon as possible after it is online.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/9.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Illustration of frames of LLM generated rub gesture
-</div>
