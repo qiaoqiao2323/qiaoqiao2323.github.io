@@ -76,9 +76,9 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-multimodal-superiority-vibrotactile-and-sound-in-robot-human-interaction",
-          title: 'Multimodal Superiority; Vibrotactile and Sound in Robot-Human Interaction',
-          description: "another without an image",
+            },},{id: "projects-multimodal-superiority-vibrotactile-and-sound-in-robot-human-emotion-communication",
+          title: 'Multimodal Superiority; Vibrotactile and Sound in Robot-Human Emotion communication',
+          description: "Qiaoqiao Ren and Tony Belpame",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-touched-by-chatgpt-using-an-llm-to-drive-affective-tactile-interaction",
