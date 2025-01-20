@@ -1,6 +1,6 @@
 ---
 layout: page
-title: No More Mumbles: Enhancing Robot Intelligibility Through Speech Adaptation
+title: No More Mumbles; Enhancing Robot Intelligibility Through Speech Adaptation
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
