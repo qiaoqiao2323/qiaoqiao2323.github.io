@@ -14,7 +14,6 @@ Tactile interaction plays an essential role in human-to-human interaction. Peopl
 If you want to know more about this research, please read <a href='https://link.springer.com/article/10.1007/s12369-024-01191-5'>our paper</a>, which was accepted by the International Journal of Social Robotics.
 
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -25,7 +24,6 @@ If you want to know more about this research, please read <a href='https://link.
 </div>
 
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
