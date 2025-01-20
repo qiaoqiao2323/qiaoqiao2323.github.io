@@ -24,6 +24,7 @@ If you want to know more about this research, please read <a href='https://link.
 </div>
 
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/2.png" title="example image" class="img-fluid rounded z-depth-1" %}
