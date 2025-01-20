@@ -66,9 +66,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-no-more-mumbles-enhancing-robot-intelligibility-through-speech-adaptation",
+          title: 'No More Mumbles; Enhancing Robot Intelligibility Through Speech Adaptation',
+          description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
