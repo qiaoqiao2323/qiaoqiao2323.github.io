@@ -5,7 +5,7 @@ permalink: /projects/
 description: Different chapters during my PhD.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Finished, in process]
 horizontal: false
 ---
 
