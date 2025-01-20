@@ -37,5 +37,3 @@ If you want to know more about this research, please read <a href='https://link.
 </div>
 
 
-
-{% endraw %}
