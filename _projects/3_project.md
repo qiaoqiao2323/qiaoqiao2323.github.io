@@ -5,5 +5,5 @@ description: Our preliminary results are shown in this page, all the results are
 img: assets/img/8.png
 redirect: https://airo.ugent.be/news/icsr2024/
 importance: 3
-category: work
+category: Finished
 ---
