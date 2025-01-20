@@ -81,8 +81,8 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
+            },},{id: "projects-touched-by-chatgpt-using-an-llm-to-drive-affective-tactile-interaction",
+          title: 'Touched by ChatGPT; Using an LLM to Drive Affective Tactile Interaction',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
