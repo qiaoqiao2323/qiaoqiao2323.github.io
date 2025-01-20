@@ -4,7 +4,7 @@ title: No More Mumbles; Enhancing Robot Intelligibility Through Speech Adaptatio
 description: Q Ren, Y Hou, D Botteldooren, T Belpaeme
 img: assets/img/7.png
 importance: 2
-category: work
+category: Finished
 giscus_comments: true
 ---
 
