@@ -63,7 +63,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-tactile-interaction-influences-risk-taking-behaviour-and-attitude",
           title: 'Tactile interaction Influences risk-taking behaviour and attitude.',
-          description: "with background image",
+          description: "Qiaoqiao Ren and Tony Belpaeme",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-no-more-mumbles-enhancing-robot-intelligibility-through-speech-adaptation",
