@@ -14,10 +14,9 @@ Spoken language interaction is at the heart of interpersonal communication, and 
 If you want to know more about this research, please read <a href='https://ieeexplore.ieee.org/abstract/document/10530918'>our paper</a>, which was accepted by the IEEE Robotics and Automation Letters.
 
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
