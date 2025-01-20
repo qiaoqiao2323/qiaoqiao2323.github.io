@@ -73,7 +73,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-conveying-emotions-to-robots-through-touch-and-sound",
           title: 'Conveying Emotions to Robots through Touch and Sound',
-          description: "a project that redirects to another website",
+          description: "Our preliminary results are shown in this page, all the results are still under submission",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-multimodal-superiority-vibrotactile-and-sound-in-robot-human-emotion-communication",
