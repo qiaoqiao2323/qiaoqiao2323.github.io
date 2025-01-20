@@ -1,16 +1,17 @@
 ---
 layout: page
 title: Tactile interaction Influences risk-taking behaviour and attitude.
-description: with background image
+description: Qiaoqiao Ren and Tony Belpaeme 
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Tactile interaction plays an essential role in human-to-human interaction. People gain comfort and support from tactile interactions with others and touch is an important predictor for trust. While touch has been explored as a communicative modality in HCI and HRI, we here report on two studies in which touching a social robot is used to regulate people’s stress levels and consequently their actions. In the first study, we look at whether different intensities of tactile interaction result in a physiological response related to stress, and whether the interaction impacts risk-taking behaviour and trust. We let 38 participants complete a balloon analogue risk task (BART), a computer-based game that serves as a proxy for risk-taking behaviour. In our study, participants are supported by a robot during the BART task. The robot builds trust and encourages participants to take more risk. The results show that affective tactile interaction with the robot increases participants’ risk-taking behaviour, but gentle affective tactile interaction increases comfort and lowers stress whereas high-intensity touch does not. We also find that male participants exhibit more risk-taking behaviour than females while being less stressed. Based on this experiment, a second study is used to ascertain whether these effects are caused by the social nature of tactile interaction or by the physical interaction alone. For this, instead of a social robot, participants now have a tactile interaction with a non-social device. The non-social interaction does not result in any effect, leading us to conclude that tactile interaction with humanoid robots is a social phenomenon rather than a mere physical phenomenon.
+
+
+If you want to know more about this research, <a href='https://link.springer.com/article/10.1007/s12369-024-01191-5'>our paper</a> was accepted by the International Journal of Social Robotics.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
