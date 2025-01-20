@@ -68,7 +68,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-no-more-mumbles-enhancing-robot-intelligibility-through-speech-adaptation",
           title: 'No More Mumbles; Enhancing Robot Intelligibility Through Speech Adaptation',
-          description: "a project with a background image and giscus comments",
+          description: "Q Ren, Y Hou, D Botteldooren, T Belpaeme",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-conveying-emotions-to-robots-through-touch-and-sound",
