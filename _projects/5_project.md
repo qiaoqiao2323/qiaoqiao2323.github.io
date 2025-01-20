@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Touched by ChatGPT; Using an LLM to Drive Affective Tactile Interaction
-description: a project with a background image
+description: Qiaoqiao Ren and Tony Belpaeme
 img: assets/img/5.png
 importance: 3
 category: fun
