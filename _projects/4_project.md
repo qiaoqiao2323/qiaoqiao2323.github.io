@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: Multimodal Superiority; Vibrotactile and Sound in Robot-Human Interaction
 description: another without an image
 img:
 importance: 3
