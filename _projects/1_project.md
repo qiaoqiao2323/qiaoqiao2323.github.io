@@ -4,7 +4,7 @@ title: Tactile interaction Influences risk-taking behaviour and attitude.
 description: Qiaoqiao Ren and Tony Belpaeme 
 img: assets/img/6.png
 importance: 1
-category: work
+category: Finished
 related_publications: false
 ---
 
