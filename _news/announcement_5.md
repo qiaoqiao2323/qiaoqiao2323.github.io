@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’m thrilled to share that I’ve started a new journey as a Visiting PhD Researcher at the Italian Institute of Technology.
+I’m thrilled to share that I’ve started a new journey as a Visiting PhD Researcher at Cognitive Architecture for Collaborative Technologies of the Italian Institute of Technology.
