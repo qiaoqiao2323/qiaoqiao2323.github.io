@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper ") Situated Haptic Interaction: Exploring the Role of Context in Affective Perception of Robotic Touch" was accepted by the IEEE RO-MAN 2025.
+Our paper "Situated Haptic Interaction: Exploring the Role of Context in Affective Perception of Robotic Touch" was accepted by the IEEE RO-MAN 2025.
 
