@@ -46,7 +46,7 @@ ninja.data = [{
           title: 'I’m thrilled to share that I’ve started a new journey as a Visiting...',
           description: "",
           section: "News",},{id: "news-our-paper-situated-haptic-interaction-exploring-the-role-of-context-in-affective-perception-of-robotic-touch-was-accepted-by-the-ieee-ro-man-2025",
-          title: 'Our paper “) Situated Haptic Interaction: Exploring the Role of Context in Affective...',
+          title: 'Our paper “Situated Haptic Interaction: Exploring the Role of Context in Affective Perception...',
           description: "",
           section: "News",},{id: "projects-tactile-interaction-influences-risk-taking-behaviour-and-attitude",
           title: 'Tactile interaction Influences risk-taking behaviour and attitude.',
