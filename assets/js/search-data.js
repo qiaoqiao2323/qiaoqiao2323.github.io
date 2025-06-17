@@ -48,7 +48,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-situated-haptic-interaction-exploring-the-role-of-context-in-affective-perception-of-robotic-touch-was-accepted-by-the-ieee-ro-man-2025",
           title: 'Our paper “Situated Haptic Interaction: Exploring the Role of Context in Affective Perception...',
           description: "",
-          section: "News",},{id: "news-our-paper-exploring-llm-generated-culture-specific-affective-human-robot-tactile-interaction-was-accepted-by-the-international-conference-on-social-robotics-2025",
+          section: "News",},{id: "news-our-paper-exploring-llm-generated-culture-specific-affective-human-robot-tactile-interaction-was-accepted-by-the-icsr-2025",
           title: 'Our paper “Exploring LLM-generated Culture-specific Affective Human-Robot Tactile Interaction” was accepted by the...',
           description: "",
           section: "News",},{id: "projects-tactile-interaction-influences-risk-taking-behaviour-and-attitude",
