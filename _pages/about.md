@@ -14,13 +14,19 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hello! I am Qiaoqiao Ren.  
+I am currently a Postdoctoral Researcher at KTH Royal Institute of Technology, working on the ERC-funded Intimate Touch project, which investigates how technologies can support rich, embodied, emotionally meaningful touch interactions. My research sits at the intersection of human–robot interaction (HRI), haptics, affective computing, and multimodal communication.
 
+I recently completed my PhD at Ghent University, where I specialised in multimodal communication for human–robot interaction, supervised by Prof. Tony Belpaeme and Prof. Francis wyffels. My doctoral work explored social and affective touch in human-robot interaction from the situational, multisensory and embodied perspective, including:
 
-Hello! I am Qiaoqiao Ren. I am currently pursuing a PhD at Ghent University, where I specialize in multimodal communication for human-robot interaction. My work primarily focuses on integrating touch and sound to enhance interactions and emotional communication between humans and robots. I am also exploring using LLMs to generate affective haptic data. 
+- full-body tactile interaction with the iCub humanoid robot,
+- tactile–audio multimodal emotion decoding,
+- robot-to-human affective touch expression via vibration and tactile sound,
+- and using large language models (LLMs) to generate socially meaningful affective haptic data.
 
-From December 2021, I am supervised in my research by Prof. Tony Belpaeme and Prof. Francis wyffels. I am a part of the Artificial Intelligence and Robotics team within IDLab at Ghent University.
+I am broadly interested in embodied interaction, social robotics, soma design, research-through-design (RtD), and how touch shapes social meaning in human–machine relationships.
 
-Previously, I completed my Master’s degree with first-class honours in Mechanical Engineering Design at the University of Manchester in the UK. My thesis involved the design and simulation of actuation systems that allow researchers to remotely control the pitch angles of supporting systems in supersonic wind tunnels.
+Before that, I obtained my Master’s degree in Mechanical Engineering Design with first-class honours from the University of Manchester, where my thesis focused on designing and simulating actuation systems for remotely adjusting pitch angles in supersonic wind tunnels.
 
-If you're interested in my work or have any inquiries, please do not hesitate to get in touch via email at qiaoqiao[dot]ren[at]ugent[dot]be, or through any other contact methods I have listed below.
+If you're interested in my work or would like to collaborate, please do not hesitate to get in touch via email at qiaoqiao[dot]ren[at]ugent[dot]be, or through any other contact methods I have listed below.
 
