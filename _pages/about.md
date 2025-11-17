@@ -14,8 +14,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hello! I am Qiaoqiao Ren.  
-I am currently a Postdoctoral Researcher at KTH Royal Institute of Technology, working on the ERC-funded Intimate Touch project, which investigates how technologies can support rich, embodied, emotionally meaningful touch interactions. My research sits at the intersection of human–robot interaction (HRI), haptics, affective computing, and multimodal communication.
+Hello! I am Qiaoqiao Ren. I am currently a Postdoctoral Researcher at KTH Royal Institute of Technology, working on the ERC-funded Intimate Touch project, which investigates how technologies can support rich, embodied, emotionally meaningful touch interactions. My research sits at the intersection of human–robot interaction (HRI), haptics, affective computing, and multimodal communication.
 
 I recently completed my PhD at Ghent University, where I specialised in multimodal communication for human–robot interaction, supervised by Prof. Tony Belpaeme and Prof. Francis wyffels. My doctoral work explored social and affective touch in human-robot interaction from the situational, multisensory and embodied perspective, including:
 
