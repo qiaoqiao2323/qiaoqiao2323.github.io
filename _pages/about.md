@@ -28,4 +28,4 @@ I am broadly interested in embodied interaction, social robotics, soma design, a
 Before that, I obtained my Master’s degree in Mechanical Engineering Design with first-class honours from the University of Manchester, where my thesis focused on designing and simulating actuation systems for remotely adjusting pitch angles in supersonic wind tunnels.
 
 If you're interested in my work or would like to collaborate, please do not hesitate to get in touch via email at qiaoqiao[dot]ren[at]ugent[dot]be, or through any other contact methods I have listed below.
----
+
