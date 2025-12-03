@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.kth.se/hct/mid/research/interaction-design/interaction-design-1.921484'>Interaction Design, KTH Royal Institute of Technology</a>. Stockholm, Sweden. 
+subtitle: <a href='https://www.kth.se/hct/mid/about-mid'>MID, KTH Royal Institute of Technology</a>. Stockholm, Sweden. 
 
 profile:
   align: right
