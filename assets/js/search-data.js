@@ -57,7 +57,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-ve-been-invited-to-give-a-spotlight-talk-and-take-part-in-the-panel-discussion-at-the-icsr-2025-workshop-beyond-words-the-role-of-touch-in-social-robotics",
           title: 'I’ve been invited to give a spotlight talk and take part in the...',
           description: "",
-          section: "News",},{id: "news-i-am-glad-to-share-that-i-am-serving-as-a-program-committee-member-for-18th-international-conference-on-social-robotics-art-2026",
+          section: "News",},{id: "news-i-am-glad-to-share-that-i-am-serving-as-a-program-committee-member-for-the-18th-international-conference-on-social-robotics-art-2026",
           title: 'I am glad to share that I am serving as a Program Committee...',
           description: "",
           section: "News",},{id: "projects-tactile-interaction-influences-risk-taking-behaviour-and-attitude",
