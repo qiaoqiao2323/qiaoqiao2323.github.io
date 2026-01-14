@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am glad to share that I am serving as a Program Committee Member for **18th International Conference on Social Robotics + Art (2026)**.
+I am glad to share that I am serving as a Program Committee Member for the 18th International Conference on Social Robotics + Art (2026).
